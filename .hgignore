@@ -1,0 +1,6 @@
+syntax: glob
+.idea/*
+.mvn/*
+target/*
+.git/*
+hg-revision-plugin-example.iml

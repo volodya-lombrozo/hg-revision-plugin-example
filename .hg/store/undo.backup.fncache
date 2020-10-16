@@ -1,0 +1,10 @@
+data/src/main/resources/application.properties.i
+data/HELP.md.i
+data/.hgignore.i
+data/.gitignore.i
+data/pom.xml.i
+data/mvnw.i
+data/mvnw.cmd.i
+data/src/test/java/com/github/volodyalombrozo/hgrevisionpluginexample/HgRevisionPluginExampleApplicationTests.java.i
+data/hg-revision-plugin-example.iml.i
+data/src/main/java/com/github/volodyalombrozo/hgrevisionpluginexample/HgRevisionPluginExampleApplication.java.i
