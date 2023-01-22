@@ -51,7 +51,7 @@
             <plugin>
                 <groupId>com.github.volodya-lombrozo</groupId>
                 <artifactId>hg-revision-plugin</artifactId>
-                <version>0.3</version>
+                <version>0.12</version>
                 <executions>
                     <execution>
                         <phase>
